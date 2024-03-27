@@ -1,3 +1,6 @@
+### VMware Automitic suspend and resume script on Windows
+### VMware关机自动挂起和开机自动恢复脚本
+
 # 添加此脚本的方法
 放到任何一个你还能找到的地方。。。当然首先得在你的windows系统中
 ## Win 徽标键 + R 

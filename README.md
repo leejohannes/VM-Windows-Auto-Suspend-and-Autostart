@@ -3,7 +3,7 @@
 
 实际上无法实现关机的时候真正的执行，因为当执行到这个脚本的嗯时候VMWare的进程已经被Windows结束了。。。
 
-# 添加此脚本的方法
+~~# 添加此脚本的方法
 放到任何一个你还能找到的地方。。。当然首先得在你的windows系统中
 ## Win 徽标键 + R 
 输入gpedit.msc<br>
@@ -22,3 +22,4 @@ add **suspend_all.bat** to shutdown<br>
 **autostart_suspended_vms.bat** to startup<br>
 
 For [PVE auto suspend VMs](https://iheld.net/?post=219)
+~~

@@ -3,6 +3,13 @@
 
 实际上无法实现关机的时候真正的执行，因为当执行到这个脚本的嗯时候VMWare的进程已经被Windows结束了。。。
 
+## Win + R, regedit
+**\HKEY_USERS\.DEFAULT\Control Panel\Desktop**<br>
+**AutoEndTasks=0**
+
+就可以实现关机时候的自动挂起，其实只是VMware被Win关机的自动结束任务给提前结束了
+
+
 # ~~添加此脚本的方法~~
 ~~放到任何一个你还能找到的地方。。。当然首先得在你的windows系统中~~
 ## ~~Win 徽标键 + R~~

@@ -1,3 +1,6 @@
+# 2025 年更新
+变成了批量开启关闭的工具了。。。因为要实现自动主要的原因是权限和优先级。。。
+
 ### VMware Automitic suspend and resume script on Windows
 ### VMware关机自动挂起和开机自动恢复脚本
 
